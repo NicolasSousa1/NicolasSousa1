@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">Olá! Sou Nicolas de Sousa, estudante de Técnico em Informática para Internet na ETEC Bartolomeu Bueno da Silva, e estou construindo minha trajetória na área de tecnologia e desenvolvimento web.<br>Possuo experiência com Python, JavaScript, HTML, CSS, Node.js, React Native; e tenho grande interesse em continuar aprendendo e aplicando meus conhecimentos em projetos reais.</p>
+<p align="left">Olá! Sou Nicolas de Sousa, estudante de Análise e Desenvolvimento de Sistemas na Fatec Santana de Parnaíba, e estou construindo minha trajetória na área de tecnologia com foco em desenvolvimento de software e soluções web.
+Tenho formação técnica em Informática para Internet pela ETEC Bartolomeu Bueno da Silva, onde desenvolvi uma base sólida em programação, lógica e desenvolvimento web. Atualmente, sigo aprofundando meus conhecimentos em tecnologia por meio da graduação e da prática em projetos acadêmicos e pessoais.
+Possuo experiência com Python, JavaScript, HTML e CSS, além de conhecimento em desenvolvimento de aplicações, estruturação de interfaces e resolução de problemas com foco em organização e eficiência.
+Busco uma oportunidade na área de tecnologia onde eu possa aplicar meus conhecimentos, continuar evoluindo tecnicamente e contribuir com dedicação, proatividade e vontade de aprender.</p>
 
 ###
 
